@@ -15,7 +15,6 @@ tags:
   - tag2
 # nolastmod: true
 
-og:image https://chinatown.paris/wp-content/uploads/2019/02/Lotus-rose-1140x760.jpeg
 ---
 
 Le lotus est une très belle fleur
