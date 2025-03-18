@@ -1,11 +1,11 @@
 ---
-title: Article Title
+title: Les fleurs
 date: 2025-03-05T17:19:31+01:00
 lastmod: 2025-03-05T17:19:31+01:00
-author: Author Name
+author: Jeanne
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/champdefleurs.jpg
 # images:
 #   - /img/cover.jpg
 categories:
@@ -15,9 +15,8 @@ tags:
   - tag2
 # nolastmod: true
 ---
-
-Cut out summary from your post content here.
+La signification des fleurs   
 
 <!--more-->
-
-The remaining content of your post.
+Les fleurs sont présentes partout, et pourtant, peu de personnes savent leur signification. C'est un savoir subtil, qui varie selon les époques, les cultures mais aussi la couleur des fleurs. Ici, vous découvrirez tout ce qu'il y a savoir sur ces significations, pour impressionner vos proches et séduire tout fan de fleurs.  
+![fleurs](/img/fleurs.jpg)

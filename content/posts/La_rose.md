@@ -5,7 +5,7 @@ lastmod: 2025-03-05T17:40:51+01:00
 author: Jeanne
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/roses.jpg
 # images:
 #   - /img/cover.jpg
 categories:
@@ -16,8 +16,24 @@ tags:
 # nolastmod: true
 ---
 
-La fleur, symbole de l'amour, dont la signification change selon sa couleur.
+Le symbole universel de l'amour. 
 
 <!--more-->
 
-The remaining content of your post.
+Signification  
+La rose symbolise l'amour. Des variantes existent selon ses déclinaisons de couleurs, dont celles-ci : 
+- Rouge : amour passionné
+- Rose : amour doux
+- Blanche : amour pur, raffiné
+- Jaune : infidélité  
+  
+La rose est la fleur du rosier, un arbuste de la famille des rosaceae. En latin, son nom rosa désigne aussi bien la rose que la fleur. La rose est cultivée depuis au moins 5 000 ans en Chine et en Perse, tandis que la Grèce la cultive depuis l'âge du bronze (qui débute vers 2 700 av. J.-C.). Il existe plusieurs dizaines de variétés de roses. La popularité de cette fleur font que des scientifiques cherchent volontairement à modifier sa génétique, notamment sa couleur, son parfum ou encore sa date de floraison.  
+
+![roseblanche](/img/roseblanche.jpg)
+
+Anecdotes  
+- Elle est célébrée depuis l'Antiquité par les poètes, écrivains et peintres. 
+- Elle est surnommée la "reine des fleurs" en Occident 
+- La Saint-Valentin n'est pas la saison des roses, il faut donc éviter d'en acheter et leur préférer d'autres fleurs. 
+
+![rosepeinture](/img/rosepeinture.jpg)
