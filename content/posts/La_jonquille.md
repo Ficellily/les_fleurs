@@ -5,7 +5,7 @@ lastmod: 2025-03-20T16:47:58+01:00
 author: Jeanne
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/jonquille.jpg
+cover: /les_fleurs/img/jonquille.jpg
 # images:
 #   - /img/cover.jpg
 categories:
