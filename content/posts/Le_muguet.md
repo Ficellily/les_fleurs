@@ -2,11 +2,7 @@
 title: Le_muguet
 date: 2025-03-20T14:18:26+01:00
 lastmod: 2025-03-20T14:18:26+01:00
-<<<<<<< HEAD
 author: Jeanne
-=======
-author: Author Name
->>>>>>> 12860753c4646e97a31a8ced19ee1761906f1dad
 # avatar: /les_fleurs/img/author.jpg
 # authorlink: https://author.site
 cover: /les_fleurs/img/Muguet.jpg
