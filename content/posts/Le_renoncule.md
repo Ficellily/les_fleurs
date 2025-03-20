@@ -14,7 +14,6 @@ tags:
   - tag1
   - tag2
 # nolastmod: true
-draft: true
 ---
 
 La fleur de l'ingratitude.
