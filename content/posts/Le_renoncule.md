@@ -5,7 +5,7 @@ lastmod: 2025-03-20T15:09:19+01:00
 author: Jeanne
 # avatar: /les_fleurs/img/author.jpg
 # authorlink: https://author.site
-cover: /les_fleurs/img/reoncule.jpg
+cover: /les_fleurs/img/renoncule.jpg
 # images:
 #   - /les_fleurs/img/cover.jpg
 categories:
