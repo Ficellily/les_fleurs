@@ -20,7 +20,7 @@ tags:
 La fleur de l'abandon.  
 <!--more-->
 Signification  
-L'anémone symbolise l'abandon, la maladie et la confiance imprudente. 
+L'anémone symbolise l'abandon, la maladie et la confiance imprudente.  
 
 Les anémones sont des fleurs hermaphrodites qui sont présentes dans les régions tempérées des deux hémisphères. Il existe de nombreuses variétés d'anémones. Dans la mythologie grecque, Anémone est une nymphe dont s'éprend Zéphyr (dieu des vents). La femme de ce dieu transforma la nymphe en fleur, par jalousie. Dans l'Antiquité, les A nciens confondaient l'anémone et l'adonis, qui appartiennent à la même famille des renonculacées. 
 
