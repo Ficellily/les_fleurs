@@ -1,8 +1,8 @@
 ---
-title: L_orchidée
+title: L'orchidée
 date: 2025-03-20T14:46:24+01:00
 lastmod: 2025-03-20T14:46:24+01:00
-author: Author Name
+author: Jeanne
 # avatar: /les_fleurs/img/author.jpg
 # authorlink: https://author.site
 cover: /les_fleurs/img/orchidees1.jpg

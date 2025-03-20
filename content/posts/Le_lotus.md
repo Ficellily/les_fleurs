@@ -1,5 +1,5 @@
 ---
-title: Le Lotus
+title: Le lotus
 date: 2025-03-05T17:36:15+01:00
 lastmod: 2025-03-05T17:36:15+01:00
 author: Jeanne

@@ -1,5 +1,5 @@
 ---
-title: Le_muguet
+title: Le muguet
 date: 2025-03-20T14:18:26+01:00
 lastmod: 2025-03-20T14:18:26+01:00
 author: Jeanne
