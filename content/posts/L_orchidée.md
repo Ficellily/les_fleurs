@@ -17,8 +17,10 @@ tags:
 
 ---
 
-La fleur populaire.  
+La fleur populaire.
+
 <!--more-->
+
 Signification  
 L'orchidée symbolise la ferveur.  
 

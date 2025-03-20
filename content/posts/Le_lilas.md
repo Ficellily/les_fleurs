@@ -17,6 +17,7 @@ tags:
 ---
 
 La fleur méconnue de l'amour.
+
 <!--more-->
 Signification  
 Le lilas est un symbole des premiers émois de l'amour, de l'innocence de la jeunesse et de l'amour qui dure.  

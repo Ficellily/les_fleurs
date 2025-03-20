@@ -18,7 +18,9 @@ tags:
 ---
 
 La fleur de l'abandon.  
-<!--more-->
+
+<!--more--> 
+
 Signification  
 L'anémone symbolise l'abandon, la maladie et la confiance imprudente.  
 

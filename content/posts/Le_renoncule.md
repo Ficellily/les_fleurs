@@ -17,7 +17,9 @@ tags:
 ---
 
 La fleur de l'ingratitude.
+
 <!--more-->
+
 Signification  
  La renoncule symbolise le reproche, tandis que le bouton d'or représente l'ingratitude ou la moquerie.  
 

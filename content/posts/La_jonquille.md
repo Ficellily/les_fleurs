@@ -22,7 +22,7 @@ La fleur printanière.
 Signification  
 La jonquille évoque l'amour et le désir.   
 
-La jonquille est une fleur du genre Narcissus. Sa floraison s'étend de mars à juin dans les régions tempérées de l'hémisphère nord. C'est un symbole de fête et surtout du printemps. De nombreuses fêtes liées à la jonquille et sa floraison existent. Par exemple, il y a les fêtes des Jonquilles, à Gérardler en avril dans les Vosges et à Saint-Etienne-de-Montluc en Loire-Atlantique. La jonquille est aussi la fleur emblématique de la fête des grands-mères : les jonquilles poussant spontanément aux abords des routes de campagnes, cela évoque souvent des souvenirs de cueillette du dimanche chez les grands-mères. 
+La jonquille est une fleur du genre Narcissus. Sa floraison s'étend de mars à juin dans les régions tempérées de l'hémisphère nord. C'est un symbole de fête et surtout du printemps. De nombreuses fêtes liées à la jonquille et sa floraison existent. Par exemple, il y a les fêtes des Jonquilles, à Gérardmer en avril dans les Vosges et à Saint-Etienne-de-Montluc en Loire-Atlantique. La jonquille est aussi la fleur emblématique de la fête des grands-mères : les jonquilles poussant spontanément aux abords des routes de campagnes, cela évoque souvent des souvenirs de cueillette du dimanche chez les grands-mères.  
 ![jonquille2](/les_fleurs/img/jonquille2.jpg)
 
 Anecdotes  
