@@ -17,12 +17,12 @@ tags:
 
 ---
 
-Le lotus est une très belle fleur
+Le symbole du bouddhisme.
 
 <!--more-->
 
 Signification  
-Le lotus symbolise l'éloquence, la sagesse mais aussi l'immortalité et la spiritualité.  
+Le lotus symbolise l'éloquence, la sagesse mais aussi l'immortalité et la réincarnation.  
   
 
 Le lotus est une plante aquatique qui peut se développer jusqu'à 2 mètres sous l'eau. Sa partie visible (principalement des feuilles et les fleurs), peut soit être flottantes soit s'élever à plus de 60 centimètres au-dessus de l'eau. Le lotus fleurit en début, généralement au début du mois de juillet. Cette fleur préfère les climats chaud mais elle peut tolérer jusqu'à -15°C l'hiver, à condition que ses rhizomes (la tige) soient protégés du gel par au moins 1 mètre d'eau et de vase.  
@@ -32,4 +32,5 @@ Anecdotes
 - C'est la fleur nationale de l'Inde. 
 - C'est aussi la fleur emblématique du bouddhisme et de l'hindouisme.
 - La graine a une très grande longévité, il est possible de faire germer des graines âgées de 1 300 ans.
+- Dans l'Egypte antique, c'est un symbole de réincarnation car il se referme et plonge dans l'eau chaque nuit avant de ressurgir et s'ouvrir le matin.
 ![lotuschamp](/les_fleurs/img/lotuschamp.jpg)

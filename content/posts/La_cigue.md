@@ -22,11 +22,13 @@ Signification
 La ciguë symbolise la perfidie, ou encore la trahison.  
 
 La ciguë est originaire d'Eurasie et d'Afrique du Nord. C'est une plante herbacée ronde, à tiges dressées. Elle peut atteindre une hauteur de 2,5 mètres. On la confond parfois avec le cerfeuil des fous, une autre plante toxique, qui provoque des paralysies. 
-La ciguë est une plante toxique. Son ingestion provoque des troubles digestifs, des vertiges, des fourmillements, une diminution de la force musculaire puis une paralysie. Cela se tranfsorme en paralysie respiratoire, entraînant ainsi la mort. Cela se produit en seulement quelques heures.   
+La ciguë est une plante toxique. Son ingestion provoque des troubles digestifs, des vertiges, des fourmillements, une diminution de la force musculaire puis une paralysie. Cela se tranfsorme en paralysie respiratoire, entraînant ainsi la mort. Cela se produit en seulement quelques heures.  
+En offrir un bouquet à la personne que l'on aime signifie que celle-ci sera notre mort.
 ![cigue_art](/les_fleurs/img/cigueart.jpg)
 Anecdotes  
 - A Athènes, durant l'antiquité grecque, elle était à la base du poison officiel pour les condamnés à mort. Sa plus célèbre victime est Socrate, le philosophe grec.  
-- La ciguë est aussi considérée comme une plante magique, associée à la magie noire.  
+- En Russie et en Allemagne, elle est considérée comme la plante du Diable.
+- La ciguë est aussi considérée comme une plante magique, associée à la magie noire et aux sorcières.  
 - Malgré sa toxicité, elle est parfois utilisée à des effets thérapeutiques, pour ses effets sédatifs et analgésiques. Dans ce cas, on utilise les feuilles et les graines de la fleurs.  
 
 ![cigue_art2](/les_fleurs/img/cigueart2.jpg)
